@@ -62,27 +62,27 @@
   </tr>
 </table>
 
+## دیگر دروس
+- **ارشد**
+    - [سمینار و سمینار تتبع](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Seminar)
+    - [پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/Theses)
+- **کارشناسی**
+    - [کارآموزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship)
+    - [پروژه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Project)
+ 
 -----------------------------------------
 > ## کار دانشجویی 
 - طراحی رزومه
-
-[محمد رضا بصیری](https://mrezabasiri.github.io/barayeman/)	 
-
-[میر محمد کمالی](https://mir-mohammad.github.io/)   
-
-[فاطمه وکیلی](https://fatemehvakili.github.io/)   
-
-[فاطمه مرادی](https://ftemeh021.github.io/ftemeh-resume/)     
-
-[سحر رجبی](https://saharrajabi.github.io/)   
-
+    - [محمد رضا بصیری](https://mrezabasiri.github.io/barayeman/)	 
+    - [میر محمد کمالی](https://mir-mohammad.github.io/)   
+    - [فاطمه وکیلی](https://fatemehvakili.github.io/)   
+    - [فاطمه مرادی](https://ftemeh021.github.io/ftemeh-resume/)     
+    - [سحر رجبی](https://saharrajabi.github.io/)   
 - تایپ با لاتک
-
+    - 
 - ترجمه
-
-[میر محمد کمالی](https://mir-mohammad.github.io/) 
-
-[فاطمه وکیلی](https://fatemehvakili.github.io/)   
+    - [میر محمد کمالی](https://mir-mohammad.github.io/) 
+    - [فاطمه وکیلی](https://fatemehvakili.github.io/)   
 
 > ##  GitHub آموزش 
 - [آموزش گیت در سایت پچ ورک](http://jlord.us/patchwork/)
